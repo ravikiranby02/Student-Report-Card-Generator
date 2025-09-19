@@ -48,17 +48,6 @@ The **Student Report Card Generator** is a Python-based console application that
 
 ---
 
-## 🚀 How to Run
-
-1. Make sure you have **Python 3** installed.
-2. Save the script as `report_card.py`.
-3. Run in terminal or command prompt:
-
-   ```bash
-   python report_card.py
-   ```
-
----
 
 ## 📌 Example
 
