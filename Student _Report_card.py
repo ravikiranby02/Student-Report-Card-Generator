@@ -78,9 +78,6 @@ def menu():
     print("3. ClassRoom")
     print("4. Exit")
 
-
-
-
 grade = int(input("Enter your grade: "))
 section = input("Enter your Section: ")
 c = ClassRoom(grade,section)
