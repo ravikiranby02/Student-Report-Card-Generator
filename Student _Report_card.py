@@ -70,8 +70,6 @@ class ClassRoom:
         for j in self.__student:
             print(f"{j.roll_no}. {j.name}")
 
-        
-
 
 def menu():
     print("\n---Student Report Card System---")
