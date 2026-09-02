@@ -113,7 +113,6 @@ while True:
         c.get_student()
         c.calculate_class_average()
         
-    
 
     elif n == 4:
         print("👋 Exiting program. Goodbye!")
