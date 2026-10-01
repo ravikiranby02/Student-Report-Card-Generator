@@ -48,7 +48,6 @@ class ReportCards:
         print(f"Result: {student.is_passed()}")
         student.calculate_grade()
 
-
 class ClassRoom:
     def __init__(self,grade,section):
         self.grade  = grade
